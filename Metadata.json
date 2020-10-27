@@ -1,0 +1,20 @@
+{
+    "Author": "Pradebban Raja",
+    "ContentSize": 4701,
+    "ContentUrl": "https://raw.githubusercontent.com/azureautomation/enabledisable-azure-hybrid-benefit(ahub)-for-windows-vm-and-windows-vmss/master/AHUBLicensing.ps1",
+    "DownloadCount": 1249,
+    "Id": "Enable-Disable-Azure-585223ad",
+    "IsFederated": false,
+    "IsWorkflow": false,
+    "Popularity": 84,
+    "RaterCount": 2,
+    "Rating": 5.0,
+    "ReleaseDate": "2018-4-11T00:00:00",
+    "RunbookKind": 5,
+    "RunbookKindString": "PowerShell",
+    "Summary": "This PowerShell Script Enables/Disables Azure Hybrid Benefit for Virtual Machine/Virtual Machine Scalesets in a given Subbscription/Resource Group or individual Resources.More of AHUB Benefit here : https://azure.microsoft.com/en-us/pricing/hybrid-benefit/",
+    "Title": "Enable-Disable Azure Hybrid Benefit(AHUB) for Windows VM and Windows VMSS",
+    "UpdatedDate": "2018-4-12T00:00:00",
+    "Url": "https://github.com/azureautomation/enabledisable-azure-hybrid-benefit(ahub)-for-windows-vm-and-windows-vmss",
+    "UserTags": "Licensing, Windows Server, Windows Azure Virtual Machines"
+}
